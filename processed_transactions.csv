@@ -1,0 +1,101 @@
+id,created_at,external_id,type,amount,date,description,category,counter_party,recurring,tag,account_external_id,location,predicted_next_payment
+0ae982fe-e2ad-48a5-9350-9f119e0112bb,2025-02-25T23:53:07,txn_p1h03djren35lgtne2004,card_payment,68.52,2024-09-14,Misson Ceviche,dining,MISSON CEVICHE,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+0c418aa7-f178-454d-806f-a9531537c53a,2025-02-25T23:53:07,txn_p1h03djren35lgtne2006,card_payment,102.66,2024-09-12,Walmart,groceries,WALMART,false,needs,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+7dbd63a3-f5f9-4944-80db-6f3dd9d16928,2025-02-25T23:53:07,txn_p1h03djren35lgtne2008,digital_payment,117.9,2024-09-10,Venmo Payment,service,LOUISE BENTLEY,true,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,2024-12-16
+cab42b95-6cd3-4c2d-ae15-b9851495f007,2025-02-25T23:53:07,txn_ovjbc6g4bcbvf1rbbg00o,digital_payment,117.02,2024-06-05,Venmo Payment,service,LOUISE BENTLEY,true,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,2024-09-10
+8c7d936f-8b19-4ed8-ae7d-64968742588c,2025-02-25T23:53:07,txn_p1h03djren35lgtne2009,interest,11.32,2024-09-10,Interest Payment,service,AMERICAN EXPRESS,true,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,2024-10-11
+315f4dcc-e6d4-496f-b71a-c8fe7915b042,2025-02-25T23:53:07,txn_p0eahmtoi298pp2qa8006,interest,95.31,2024-08-10,Interest Payment,service,AMERICAN EXPRESS,true,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,2024-09-10
+1c527af0-65a2-4cb9-9393-c1cfb96035be,2025-02-25T23:53:07,txn_p1h03djren35lgtne200a,phone,105.22,2024-09-09,Phone bill,utilities,AT&T,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+8af35d93-7754-4934-93f8-116354984f36,2025-02-25T23:53:07,txn_p0eahms1s7q88re1ri00a,phone,68.76,2024-08-14,Phone bill,utilities,AT&T,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+e85c68f6-b20b-4ee4-be57-54ad8fd5da31,2025-02-25T23:53:07,txn_ovjbc6g3bcbvf1rbbg007,phone,101.8,2024-07-21,Phone bill,utilities,AT&T,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+423c7df0-32ad-485e-a3e1-736a055203a3,2025-02-25T23:53:07,txn_ovjbc6g3rcbvf1rbbg008,phone,81.19,2024-05-26,Phone bill,utilities,AT&T,false,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,
+ec62f016-8b77-42c6-bcb6-b1bc8b1eda6f,2025-02-25T23:53:07,txn_p1h03djrun35lgtne2004,card_payment,64.01,2024-08-29,Wendy's,dining,Wendy's,true,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,2024-12-04
+db5e5c73-0ca6-49ea-8b3a-eb578db2c007,2025-02-25T23:53:07,txn_ovjbc6horcbvf1rbbg003,card_payment,32.7,2024-05-24,Wendy's,dining,WENDY'S,true,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,2024-08-29
+33f1806d-1402-41ba-b8d8-6c1fbab6cc43,2025-02-25T23:53:07,txn_p1h03djrun35lgtne200c,digital_payment,33.5,2024-08-23,PayPal Purchase,shopping,EBAY,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+f9eb08e8-7afe-45bc-9a7c-2081118e303c,2025-02-25T23:53:07,txn_ovjbc6g3bcbvf1rbbg005,digital_payment,35.51,2024-07-23,PayPal Purchase,shopping,EBAY,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+ae32d3e0-b6ce-4a17-93fa-05069257719e,2025-02-25T23:53:07,txn_p0eahmtoi298pp2qa8004,digital_payment,25.83,2024-08-12,PayPal Purchase,shopping,EBAY,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+32e9db2d-09a4-48a2-8378-6936406c8cf6,2025-02-25T23:53:07,txn_p1h03djrun35lgtne200d,adjustment,-112.99,2024-08-22,Purchase Return,groceries,WALMART,false,needs,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+49270385-e061-4755-8492-ce199620cbf7,2025-02-25T23:53:07,txn_p0eahms1s7q88re1ri005,payment,99.15,2024-08-19,Zelle Payment,general,SAM BLOCK,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+f2e16a1f-c68a-4d5d-a6f4-09e3b83b55c0,2025-02-25T23:53:07,txn_ovjbc6g3bcbvf1rbbg00p,payment,70.65,2024-07-06,Zelle Payment,general,SAM BLOCK,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+5b5c4b0d-d71b-488e-8ff4-5dadc81543df,2025-02-25T23:53:07,txn_ovjbc6g4bcbvf1rbbg00b,payment,120.1,2024-05-29,Zelle Payment,general,SAM BLOCK,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+a2d6b740-34ea-4d8d-864c-59f9cc55173f,2025-02-25T23:53:07,txn_ovjbc6g4rcbvf1rbbg007,payment,20.79,2024-05-21,Zelle Payment,general,SAM BLOCK,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+ab498e34-d710-42d8-9f58-6e05570c8da2,2025-02-25T23:53:07,txn_p1h03diben35lgtne2000,payment,20.83,2024-09-12,Zelle Payment,general,SAM BLOCK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+c9de9624-3537-4257-9d36-ab03cf15b3d1,2025-02-25T23:53:07,txn_p0eahmtoi298pp2qa800f,payment,71.4,2024-08-04,Zelle Payment,general,SAM BLOCK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+274677b0-b1ae-4d3b-8f20-29df4cdca7b4,2025-02-25T23:53:07,txn_p0eahms1s7q88re1ri006,ach,-69.92,2024-08-18,Monthtly Rental,accommodation,JOHN SMITH,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+0f452689-e666-4b66-b31f-70525471e89e,2025-02-25T23:53:07,txn_p0eahms1s7q88re1ri009,withdrawal,76.15,2024-08-16,Cash Withdrawal,service,EASY PAY,false,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,
+6e49c783-c85b-45e5-9009-27711770b160,2025-02-25T23:53:07,txn_p0eahms2c7q88re1ri003,withdrawal,105.42,2024-08-10,Cash Withdrawal,service,EASY PAY,false,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,
+17467fce-cdfb-4eff-a6fe-cf70f7ff85d8,2025-02-25T23:53:07,txn_p1h03diben35lgtne200l,withdrawal,113.99,2024-08-28,Cash Withdrawal,service,EASY PAY,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+92df6543-113c-47b1-a1b8-09cb39139142,2025-02-25T23:53:07,txn_ovjbc6e7rcbvf1rbbg000,withdrawal,50.17,2024-06-21,Cash Withdrawal,service,EASY PAY,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+93ac902d-b0ab-49ae-beb5-5a795cab91e4,2025-02-25T23:53:07,txn_p0eahms1s7q88re1ri00c,card_payment,13.68,2024-08-13,In-N-Out Burger,dining,IN-N-OUT BURGER,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+c34f3a1f-0712-4fa9-ad65-b34363f28d37,2025-02-25T23:53:07,txn_p0eahms2c7q88re1ri008,transfer,31.08,2024-08-07,Recurring Transfer to Savings,general,YOURSELF,false,goals,acc_ovjbc6bgbcbvf1rbbg000,Online,
+c821ea1c-2b3b-4b15-9f66-b9509303787b,2025-02-25T23:53:07,txn_p1h03diaun35lgtne2006,transfer,66.15,2024-09-16,Recurring Transfer to Savings,general,YOURSELF,false,goals,acc_ovjbc6bfbcbvf1rbbg000,Online,
+5b332f0e-6c9d-4f61-b1d5-5be800a6108b,2025-02-25T23:53:07,txn_p1h03diben35lgtne200e,transfer,23.21,2024-09-01,Recurring Transfer to Savings,general,YOURSELF,false,goals,acc_ovjbc6bfbcbvf1rbbg000,Online,
+84bc3bc1-8fbd-401d-b7e1-f1d9d1a5b649,2025-02-25T23:53:07,txn_ovjbc6hnrcbvf1rbbg005,transfer,20.35,2024-05-26,Recurring Transfer to Savings,general,YOURSELF,false,goals,acc_ovjbc6bhbcbvf1rbbg000,Online,
+57a7e116-b013-43bf-8041-23a2cde05877,2025-02-25T23:53:07,txn_p0eahms2c7q88re1ri00e,wire,124.98,2024-08-02,Domestic Wire,general,JAMES ARDEN,true,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,2024-08-21
+ddee058f-a9a0-473c-9264-3aadd1619fe0,2025-02-25T23:53:07,txn_ovjbc6g3bcbvf1rbbg00f,wire,40.77,2024-07-14,Domestic Wire,general,JAMES ARDEN,true,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,2024-08-02
+b987960a-1e5d-4352-8728-35cd8ac5a181,2025-02-25T23:53:07,txn_ovjbc6g3bcbvf1rbbg00j,bill_payment,56.58,2024-07-12,American Express Platinum Card,service,AMERICAN EXPRESS,true,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,2024-09-05
+7254d16e-6d27-40d4-9833-85c6df3af3f3,2025-02-25T23:53:07,txn_ovjbc6g4bcbvf1rbbg00q,bill_payment,5.99,2024-05-18,American Express Platinum Card,service,AMERICAN EXPRESS,true,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,2024-07-12
+3b494a52-4bad-4cb1-a588-fea4feab59a9,2025-02-25T23:53:07,txn_ovjbc6g3bcbvf1rbbg00l,card_payment,111.91,2024-07-09,Five Guys,dining,FIVE GUYS,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+09b3ecfa-9fa4-47b5-9306-3dfa369a8c22,2025-02-25T23:53:07,txn_ovjbc6g3rcbvf1rbbg002,deposit,-64.02,2024-07-02,Cash Deposit,general,MEGA BANK,false,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,
+5220ea6f-7b47-41ce-ae01-a8aa96241cb9,2025-02-25T23:53:07,txn_ovjbc6g3rcbvf1rbbg00g,deposit,-111.28,2024-05-11,Cash Deposit,general,MEGA BANK,false,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,
+25c29314-415c-4fd7-916c-6d3c73c774cd,2025-02-25T23:53:07,txn_ovjbc6g3rcbvf1rbbg00b,deposit,-57.81,2024-05-04,Cash Deposit,general,MEGA BANK,false,wants,acc_ovjbc6bgbcbvf1rbbg000,Online,
+7746f346-b2a1-45ed-9a82-cf95e07c430c,2025-02-25T23:53:07,txn_p1h03diben35lgtne2008,deposit,-53.01,2024-09-08,Cash Deposit,general,MEGA BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+828fa801-9a3f-4e8d-84da-c4a2d38b4b06,2025-02-25T23:53:07,txn_ovjbc6g4bcbvf1rbbg005,payment,117.67,2024-06-15,Zelle Payment,transportation,AB LOGISTICS,true,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,2024-07-10
+32c677e2-542a-4073-a69d-142128ea3c6f,2025-02-25T23:53:07,txn_ovjbc6e8bcbvf1rbbg00j,payment,73.94,2024-05-21,Zelle Payment,transportation,AB LOGISTICS,true,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,2024-06-15
+0cfbfe91-e0a6-486b-b9ad-b7670858ce2c,2025-02-25T23:53:07,txn_ovjbc6g4bcbvf1rbbg00d,ach,93.23,2024-06-14,Monthly Water Bill,utilities,WATER SUPPLY COMPANY,true,needs,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,2024-08-20
+6022ba6f-a404-4ed2-8c5f-47108406e695,2025-02-25T23:53:07,txn_p0eahmto2298pp2qa8003,ach,96.69,2024-08-20,Monthly Water Bill,utilities,WATER SUPPLY COMPANY,true,needs,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,2024-10-26
+d987f06a-7683-4805-a14e-865d38248071,2025-02-25T23:53:07,txn_ovjbc6g4bcbvf1rbbg008,card_payment,97.58,2024-05-25,Sears,shopping,SEARS,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+5dd14540-53b9-4bf1-82ca-3d6cd1516210,2025-02-25T23:53:07,txn_ovjbc6g3rcbvf1rbbg00l,card_payment,106.43,2024-05-03,Dick's Sporting Goods,shopping,DICK'S SPORTING GOODS,false,wants,acc_ovjbc6bgbcbvf1rbbg000,San Francisco,
+4a876103-56df-4518-b937-c8c31a8dfd48,2025-02-25T23:53:07,txn_p1h03diaun35lgtne2000,card_payment,108.37,2024-09-17,Misson Ceviche,health,SPOTIFY,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+1e5a4cab-42a5-49a1-9d60-51e2eb73e065,2025-02-25T23:53:07,txn_p1h03diaun35lgtne2009,interest,-64.52,2024-09-15,Interest Earned,service,WORLD BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+951d4993-8eef-49c8-85e2-f1e61af9d69d,2025-02-25T23:53:07,txn_p1h03diben35lgtne2001,atm,118.27,2024-09-12,External ATM Cash,service,ATM WORLDWIDE,true,wants,acc_ovjbc6bfbcbvf1rbbg000,New York,2024-11-08
+310fb36a-2499-40db-a6a3-b5457daba71f,2025-02-25T23:53:07,txn_ovjbc6hnbcbvf1rbbg001,atm,10.21,2024-07-17,External ATM Cash,service,ATM WORLDWIDE,true,wants,acc_ovjbc6bhbcbvf1rbbg000,New York,2024-09-12
+c3a0a9c3-fa5a-4e4c-81bd-e837f26eb5eb,2025-02-25T23:53:07,txn_p1h03diben35lgtne200f,fee,15.17,2024-09-01,International Transaction Fee,general,BIG BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+288241db-2b77-4c2f-af22-082cad7e45f6,2025-02-25T23:53:07,txn_ovjbc6e6rcbvf1rbbg00e,fee,104.51,2024-07-10,International Transaction Fee,general,BIG BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+01925e6d-6e5b-47f4-82fc-4eeb4f9b30d4,2025-02-25T23:53:07,txn_ovjbc6e7bcbvf1rbbg008,fee,30.95,2024-06-26,International Transaction Fee,general,BIG BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+abb00539-916a-407f-899c-b6725d3666ac,2025-02-25T23:53:07,txn_ovjbc6e8bcbvf1rbbg00b,fee,61.19,2024-05-30,International Transaction Fee,general,BIG BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+251ee8e7-faad-4703-b2a0-c17536448f42,2025-02-25T23:53:07,txn_ovjbc6e7rcbvf1rbbg003,fee,59.76,2024-05-12,International Transaction Fee,general,BIG BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+2f88ca9d-617c-4063-afdf-d285082ce2f5,2025-02-25T23:53:07,txn_ovjbc6hmrcbvf1rbbg00e,fee,12.6,2024-07-20,International Transaction Fee,general,BIG BANK,false,wants,acc_ovjbc6bhbcbvf1rbbg000,Online,
+45874f3c-f38a-475b-af2c-2fd9a1dd1e7d,2025-02-25T23:53:07,txn_p1h03diben35lgtne200n,bill_payment,41.83,2024-08-26,Marriot Rewards,accommodation,MERRIOTT,false,wants,acc_ovjbc6bfbcbvf1rbbg000,New York,
+56fb5c82-3210-408b-8cb0-4c8be0595839,2025-02-25T23:53:07,txn_p1h03diben35lgtne200r,withdrawal,62.32,2024-08-23,Electronic Withdrawal,service,BANK OF THE WEST,true,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,2024-09-09
+50c0fe99-3f92-4e06-b648-6cf67adc47b2,2025-02-25T23:53:07,txn_p0eahmtoi298pp2qa800c,withdrawal,35.68,2024-08-06,Electronic Withdrawal,service,BANK OF THE WEST,true,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,2024-08-23
+aa3e9dba-e9e5-41d4-9dad-87f689d87969,2025-02-25T23:53:07,txn_p1h03dibun35lgtne2000,card_payment,94.9,2024-08-22,Target,office,TARGET,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+2d5f4e2d-7b82-47c7-989b-5de684640537,2025-02-25T23:53:07,txn_p0eahmtoi298pp2qa8005,card_payment,29.7,2024-08-10,Kohl's,shopping,KOHL'S,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+93f71fae-b70c-4e37-9ff9-15607cfcd2b0,2025-02-25T23:53:07,txn_p0eahmtoi298pp2qa800a,atm,31.68,2024-08-07,ATM Withdrawal,service,CARDTRONICS,true,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,2024-08-27
+ee8a01e1-ebaf-4afb-855c-c4ad056ffec2,2025-02-25T23:53:07,txn_ovjbc6e6rcbvf1rbbg007,atm,124.55,2024-07-18,ATM Withdrawal,service,CARDTRONICS,true,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,2024-08-07
+6f167020-cd46-4121-8005-a0b1175e64ae,2025-02-25T23:53:07,txn_p0eahmtoi298pp2qa800e,atm,-24.41,2024-08-04,ATM Deposit,service,MAGNA BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+aec4be51-3506-4552-8871-e982b9d2be37,2025-02-25T23:53:07,txn_ovjbc6e6bcbvf1rbbg003,atm,-10.83,2024-07-27,ATM Deposit,service,MAGNA BANK,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+b6c0639b-f620-4edf-b470-7275a0834885,2025-02-25T23:53:07,txn_p0eahmqpi298pp2qa8000,atm,-43.9,2024-08-21,ATM Deposit,service,MAGNA BANK,false,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+f1d40c55-34e5-480a-a354-afa874915da3,2025-02-25T23:53:07,txn_ovjbc6e6bcbvf1rbbg002,card_payment,119.27,2024-07-28,Sephora,shopping,SEPHORA,true,wants,acc_ovjbc6bfbcbvf1rbbg000,New York,2024-08-06
+d110bd25-5076-4515-9871-20c22e06ceef,2025-02-25T23:53:07,txn_ovjbc6hmrcbvf1rbbg00f,card_payment,87.32,2024-07-19,Sephora,shopping,SEPHORA,true,wants,acc_ovjbc6bhbcbvf1rbbg000,New York,2024-07-28
+90fdf594-881e-449a-b0f2-cb75fa44a739,2025-02-25T23:53:07,txn_ovjbc6e6rcbvf1rbbg001,card_payment,106.19,2024-07-23,Nordstrom,shopping,NORDSTROM,false,wants,acc_ovjbc6bfbcbvf1rbbg000,New York,
+e832ac9d-d8b8-4777-b77b-ea09f0ab4c37,2025-02-25T23:53:07,txn_ovjbc6e6rcbvf1rbbg00d,card_payment,72.9,2024-07-11,Office Depot,office,OFFICE DEPOT,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+35b15130-d05d-4dcc-a101-10ac487719ab,2025-02-25T23:53:07,txn_ovjbc6e6rcbvf1rbbg00j,card_payment,70.71,2024-07-06,Burger King,dining,BURGER KING,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+9cd9399d-b4af-40af-8e33-57e453df1ed8,2025-02-25T23:53:07,txn_ovjbc6e6rcbvf1rbbg00m,card_payment,94.36,2024-07-04,The Home Depot,home,THE HOME DEPOT,false,wants,acc_ovjbc6bfbcbvf1rbbg000,San Francisco,
+5dab71cd-f19b-4a34-a64b-992a945f4417,2025-02-25T23:53:07,txn_ovjbc6e7bcbvf1rbbg000,fee,100.22,2024-07-03,Insufficient Funds Fee,general,BANK OF ALL,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+fa9fdf04-4f04-4095-b027-74353c92f5e6,2025-02-25T23:53:07,txn_ovjbc6e7bcbvf1rbbg003,charge,15.75,2024-07-01,Service Charge,service,BANK OF EURASIA,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+27039715-fe49-4343-8bef-2026348ac962,2025-02-25T23:53:07,txn_ovjbc6e7bcbvf1rbbg00l,card_payment,115.12,2024-05-30,Spotify,software,SPOTIFY,false,wants,acc_ovjbc6bfbcbvf1rbbg000,Online,
+bebc52cc-a984-4605-853f-f1392963b227,2025-02-25T23:53:07,txn_p1h03dalqnouvc33tg000,card_payment,11.45,2024-09-18,The Creamery,dining,THE CREAMERY,true,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,2024-12-16
+f0751ed0-3cf2-45d9-94c8-dcbc03fd4eff,2025-02-25T23:53:07,txn_ovjbc6hnrcbvf1rbbg00l,card_payment,109.03,2024-06-21,The Creamery,dining,THE CREAMERY,true,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,2024-09-18
+64d882e3-b63b-4a0f-b1a7-aca69d02a329,2025-02-25T23:53:07,txn_p1h03damanouvc33tg005,card_payment,63.81,2024-09-06,Amazon,shopping,AMAZON,false,wants,acc_ovjbc6bhbcbvf1rbbg000,Online,
+23ae8c03-3b21-448a-8127-214208034534,2025-02-25T23:53:07,txn_p1h03damanouvc33tg008,card_payment,97.03,2024-09-03,CVS,health,CVS,false,needs,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+98501a52-2421-489b-b91e-9dfe6fea8553,2025-02-25T23:53:07,txn_p1h03damanouvc33tg00e,card_payment,75.35,2024-08-28,Neiman Marcus,shopping,NEIMAN MARCUS,false,wants,acc_ovjbc6bhbcbvf1rbbg000,New York,
+fdc744c3-7ac6-4b9d-a3fd-5978b2a16a38,2025-02-25T23:53:07,txn_p0eahmqpi298pp2qa8001,card_payment,72.64,2024-08-21,Wingstop,dining,WINGSTOP,false,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+e758d8a8-1a67-40f9-b2fb-b98b49df40ee,2025-02-25T23:53:07,txn_p0eahmqpi298pp2qa800m,card_payment,54.23,2024-08-05,Costco,groceries,COSTCO,false,needs,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+9710e213-fcc6-401d-b222-7918e43d660d,2025-02-25T23:53:07,txn_p0eahmqpi298pp2qa800p,credit,-471.92,2024-08-02,Dispute Credit,accommodation,EXPEDIA,true,wants,acc_ovjbc6bhbcbvf1rbbg000,Online,2024-08-10
+cc441f18-a915-42d7-b9f7-e14ada1acfea,2025-02-25T23:53:07,txn_ovjbc6hmrcbvf1rbbg008,credit,-604.13,2024-07-25,Dispute Credit,accommodation,EXPEDIA,true,wants,acc_ovjbc6bhbcbvf1rbbg000,Online,2024-08-02
+b490e347-ae3d-4e69-a3c7-f39003e1aebf,2025-02-25T23:53:07,txn_ovjbc6hmrcbvf1rbbg006,card_payment,43.85,2024-07-28,McDonald's,dining,MCDONALD'S,true,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,2024-08-28
+c80fcc42-8915-4e61-ba9e-38f6521c59ed,2025-02-25T23:53:07,txn_ovjbc6horcbvf1rbbg009,card_payment,87.11,2024-06-27,McDonald's,dining,MCDONALD'S,true,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,2024-07-28
+2e2295d0-dd86-481f-bf69-53343857de38,2025-02-25T23:53:07,txn_ovjbc6hmrcbvf1rbbg009,card_payment,20.95,2024-07-25,Chipotle Mexican Grill,dining,CHIPOTLE MEXICAN GRILL,false,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+91e06092-376c-46d8-9d26-3daf07e9dbd7,2025-02-25T23:53:07,txn_ovjbc6hmrcbvf1rbbg00d,card_payment,101.68,2024-07-22,Slim Chickens,dining,SLIM CHICKENS,true,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,2024-08-04
+edce467c-9ffb-4016-9178-982e9149d69e,2025-02-25T23:53:07,txn_ovjbc6hnbcbvf1rbbg008,card_payment,32.09,2024-07-09,Slim Chickens,dining,SLIM CHICKENS,true,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,2024-07-22
+69bc2099-3dee-4b9e-8992-cd0e3a78d145,2025-02-25T23:53:07,txn_ovjbc6hnbcbvf1rbbg00a,card_payment,85.77,2024-07-07,Duane Reade,health,DUANE READE,false,needs,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+f34d3409-e44a-49a6-a7cf-d9a736b74369,2025-02-25T23:53:07,txn_ovjbc6hobcbvf1rbbg00i,card_payment,59.59,2024-06-22,Kroger,groceries,KROGER,false,needs,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+d3cf4e11-0a8e-4ae8-8cdc-86d748cf0f5d,2025-02-25T23:53:07,txn_ovjbc6hnrcbvf1rbbg00g,card_payment,92.67,2024-06-17,Lids,shopping,LIDS,false,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+4bed7692-3c64-4eff-98e0-1f7edaa24501,2025-02-25T23:53:07,txn_ovjbc6hobcbvf1rbbg007,card_payment,104.24,2024-06-16,Shake Shack,dining,SHAKE SHACK,false,wants,acc_ovjbc6bhbcbvf1rbbg000,New York,
+9cbeadf9-5298-43f3-a6d3-fa0cc2f11a85,2025-02-25T23:53:07,txn_ovjbc6hobcbvf1rbbg00a,card_payment,115.14,2024-06-15,Shell,fuel,SHELL,false,needs,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+3482a845-75bd-433a-a733-bf8ae2bd2057,2025-02-25T23:53:07,txn_ovjbc6hobcbvf1rbbg00l,card_payment,46.25,2024-06-14,KFC,dining,KFC,false,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+d2d6bfa1-fb75-4b58-a4c4-4634419ea687,2025-02-25T23:53:07,txn_ovjbc6hobcbvf1rbbg00c,card_payment,118.54,2024-06-09,Uber Eats,dining,UBER EATS,false,wants,acc_ovjbc6bhbcbvf1rbbg000,New York,
+b178628b-6d4a-4e5a-a3e0-88b5cc75c2d6,2025-02-25T23:53:07,txn_ovjbc6hnrcbvf1rbbg004,card_payment,107.56,2024-06-08,Sonic,dining,SONIC,false,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+08d3bf37-3274-4b1c-8e89-254db4c09a55,2025-02-25T23:53:07,txn_ovjbc6hnrcbvf1rbbg009,card_payment,91.54,2024-05-16,"Bed, Bath & Beyond",shopping,"BED, BATH & BEYOND",false,wants,acc_ovjbc6bhbcbvf1rbbg000,San Francisco,
+1b9b5ac8-2cc6-4d67-b8de-021f6b653faf,2025-02-25T23:53:07,txn_ovjbc6horcbvf1rbbg002,card_payment,28.53,2024-05-14,Uber,transportation,UBER,false,wants,acc_ovjbc6bhbcbvf1rbbg000,New York,
