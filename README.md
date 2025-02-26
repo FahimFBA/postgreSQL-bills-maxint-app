@@ -85,6 +85,78 @@ Instead of using a PostgreSQL view, we've implemented a JavaScript-based solutio
    ```
 9. Run the `node query_recurring_bills_direct.js` script to get the recurring bills view.
 
+## Unit Tests
+
+We have implemented two sets of unit tests to verify the correctness of our implementation:
+
+### 1. Transaction Processing Tests
+
+These tests verify the correctness of our transaction processing logic. To run these tests:
+
+1. Ensure you have Python installed on your system.
+2. Navigate to the project directory in your terminal.
+3. Run the following command:
+
+   ```
+   python -m unittest test_process_transactions.py
+   ```
+
+The tests cover various aspects of the transaction processing, including:
+- Date parsing and formatting
+- Calculation of average intervals between transactions
+- Prediction of next payment dates
+- Overall transaction processing logic
+
+### 2. Recurring Bills View Tests
+
+These tests verify the correctness of the recurring bills view logic. To run these tests:
+
+1. Ensure you have Python installed on your system.
+2. Navigate to the project directory in your terminal.
+3. Run the following command:
+
+   ```
+   python -m unittest test_recurring_bills_view.py
+   ```
+
+The `test_recurring_bills_view.py` file contains tests that simulate the logic of the `recurring_bills_v2` view. These tests cover:
+- Identification of recurring bills
+- Handling of non-recurring transactions
+- Calculation of average amounts for bills with varying amounts
+- Prediction of next payment dates for recurring bills
+
+Key features of these tests:
+- They simulate the view logic in Python, allowing for fast and reliable testing without database dependencies.
+- The tests use a `simulate_recurring_bills_view` method that mimics the SQL view's logic.
+- Test data is created within the test methods, allowing for controlled and reproducible test scenarios.
+- The tests verify both the structure (e.g., correct fields are present) and the content (e.g., correct calculations) of the simulated view results.
+
+Note: These tests do not require a connection to the Supabase database. They are designed to verify the correctness of the view's logic independently of the database implementation, making them true unit tests.
+
+By running both `test_process_transactions.py` and `test_recurring_bills_view.py`, you can ensure that both the transaction processing logic and the recurring bills identification logic are working correctly.
+
+## View Logic and Assumptions
+
+The recurring bills view (`recurring_bills_v2`) is implemented as a PostgreSQL view. Here's an explanation of its logic and assumptions:
+
+1. **Transaction Grouping**: Transactions are grouped by their description, assuming that recurring bills will have consistent descriptions.
+
+2. **Occurrence Count**: The view counts the number of occurrences for each unique description. It assumes that recurring bills will have multiple occurrences.
+
+3. **Date Range**: The view calculates the first and last date for each group of transactions with the same description.
+
+4. **Average Amount**: It calculates the average amount for each group, assuming that recurring bills may have slight variations in amount.
+
+5. **Average Interval**: The view calculates the average interval between transactions by dividing the total date range by the number of occurrences minus one. This assumes that recurring bills occur at roughly regular intervals.
+
+6. **Next Date Prediction**: The next expected date for a bill is predicted by adding the rounded average interval to the last known date.
+
+7. **Filtering Criteria**:
+   - Only groups with more than one occurrence are considered recurring.
+   - The average interval must be between 1 and 366 days, assuming bills recur at least annually but not more frequently than daily.
+
+These assumptions help identify likely recurring bills, but may not capture all edge cases or irregular payment patterns.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

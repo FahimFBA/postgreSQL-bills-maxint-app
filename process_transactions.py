@@ -29,7 +29,7 @@ def calculate_average_interval(dates):
     if len(dates) < 2:
         return None
     intervals = [(dates[i] - dates[i-1]).days for i in range(1, len(dates))]
-    return sum(intervals) / len(intervals)
+    return round(sum(intervals) / len(intervals))
 
 def predict_next_payment_date(last_date, avg_interval):
     if avg_interval is None:
